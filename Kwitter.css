@@ -1,0 +1,17 @@
+#username {
+    width: 300px;
+}
+
+#body {
+    background-image:url(montain.jpg );
+}
+
+#chattingLabel {
+    font-size: 50px;
+color: lightgreen;
+}
+
+#signLabel {
+    font-size: 40px;
+    color: yellow;
+}
