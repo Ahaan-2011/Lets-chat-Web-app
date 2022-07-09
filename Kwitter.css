@@ -9,9 +9,14 @@
 #chattingLabel {
     font-size: 50px;
 color: lightgreen;
+font-style: oblique;
 }
 
 #signLabel {
     font-size: 40px;
     color: yellow;
+}
+
+h1 {
+    font-style: oblique;
 }

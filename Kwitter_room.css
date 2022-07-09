@@ -1,0 +1,19 @@
+#body {
+    background-color: aqua;
+}
+
+h3 {
+    font-style: oblique;
+}
+
+h4 {
+    font-style: oblique;
+}
+
+#recent_rooms {
+    background-color: lightgray;
+}
+
+#room_name {
+    width: 200px;
+}
