@@ -51,3 +51,12 @@ function redirectToRoomName(name) {
     localStorage.setItem("room_name",name);
     window.location= "quitter_page.html";
 }
+
+function logout() {
+
+localStorage.removeItem("room_name");
+localStorage.removeItem("username");
+
+window.location="index.html"
+
+}

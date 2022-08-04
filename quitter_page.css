@@ -1,0 +1,9 @@
+#body {
+    background-color: rgb(255, 0, 0);
+}
+
+#message_holder {
+    background-color: rgb(0, 245, 245);
+    height: 400px;
+    width: 900px;
+}
